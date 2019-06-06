@@ -1,0 +1,16 @@
+img {
+    height: 250px;
+}
+
+.content * {
+    display: block;
+    margin: 10px auto;
+}
+
+div input {
+    display: inline-block;
+}
+
+#search {
+    width: 500px;
+}
