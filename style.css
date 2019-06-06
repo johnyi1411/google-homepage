@@ -14,3 +14,11 @@ div input {
 #search {
     width: 500px;
 }
+
+#center {
+    padding-top: 18px;
+    position: absolute;
+    top: 275px;
+    margin: auto;
+    z-index: 0;
+}
